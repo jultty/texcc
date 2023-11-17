@@ -1,0 +1,8 @@
+- [ ] A página seguinte às ímpares deve ser vazia
+- [ ] Quebras de página
+- [ ] Quebras de seção
+- [ ] Numeração das páginas é afetada pelas seções
+- [ ] O cabeçalho é igual entre páginas da mesma seção
+- [ ] Sumário
+- [ ] Figuras
+  - [ ] Referências às figuras não devem ser em negrito
