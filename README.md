@@ -4,7 +4,9 @@ Modelo LaTeX para trabalhos de conclusão de curso baseado no modelo utilizado p
 
 ## Fontes
 
-A fonte recomendada pelo modelo original do curso, Arial, é uma fonte proprietária de direito exclusivo da _Monotype Imaging_. Para fins de demonstração, a fonte distribuída com este modelo é a Arimo, licenciada pela Google da Ascender Corporation sob a licença Apache. A Arimo é metricamente compatível com a Arial, para a qual foi desenvolvida como uma substituta de código aberto.
+Arimo, a fonte distribuída com este modelo, é licenciada pela Ascender Corporation sob a licença Apache. A Arimo foi desenvolvida como uma substituta de código aberto para a Arial, com a qual é metricamente compatível.
+
+Ainda que seja a fonte recomendada pelo modelo original do curso, a Arial é uma fonte proprietária de direito exclusivo da _Monotype Imaging_ e não pode ser livremente distribuída. 
 
 ## Referências
 
